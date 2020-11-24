@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello, world! 👋
+
+I'm Jonas Wanke, a student at the [<img src="https://hpi.de/typo3conf/ext/hpi_distribution/Resources/Public/Default/img/HPI-Favicon-33x33.png" alt="HPI" width="16" height="16"> Hasso-Plattner-Institute](https://hpi.de/en.html) and software developer with a focus on [<img src="https://flutter.dev/images/favicon.png" width="16" height="16"> Flutter](https://flutter.dev) and [<img src="https://dart.dev/assets/shared/dart/icon/64.png" width="16" height="16"> Dart](https://dart.dev).
+
+🍬 Together with [@MarcelGarus](https://github.com/MarcelGarus), I'm working on [🍭 **Candy** (name subject to change)](https://github.com/candy-lang/candy), a new programming language.  
+🌱 I'm currently working at [**smusy.**](https://smusy.de) to revolutionize the application process for students.  
+🦙 Also, I'm working at the [<img src="https://hpi-schul-cloud.de/images/logo/favicon-48.png" width="18" height="18"> **HPI-Schul-Cloud**](https://hpi-schul-cloud.org) in order to enable students to work from home.
+
+📫 Don't hesistate to get in touch with me! (digitally 😷)  
+You can reach me on [Telegram](https://t.me/JonasWanke) or via [mail](mailto:contact+github@wanke.dev). Other contact options are listed on [my website](https://wanke.dev).
 
 <!--
 **JonasWanke/JonasWanke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
