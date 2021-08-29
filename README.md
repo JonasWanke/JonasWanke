@@ -1,6 +1,6 @@
 ### Hello, world! 👋
 
-I'm Jonas Wanke, a student at the [<img src="https://hpi.de/typo3conf/ext/hpi_distribution/Resources/Public/Default/img/HPI-Favicon-33x33.png" alt="HPI" width="16" height="16"> Hasso-Plattner-Institute](https://hpi.de/en.html) and software developer with a focus on [<img src="https://flutter.dev/images/favicon.png" width="16" height="16"> Flutter](https://flutter.dev) and [<img src="https://dart.dev/assets/shared/dart/icon/64.png" width="16" height="16"> Dart](https://dart.dev).
+I'm Jonas Wanke, a student at the [<img src="https://hpi.de/typo3conf/ext/hpi_distribution/Resources/Public/Default/img/HPI-Favicon-33x33.png" alt="HPI" width="16" height="16"> Hasso-Plattner-Institute](https://hpi.de/en.html) and software developer with a focus on [<img src="https://flutter.dev/assets/images/shared/brand/flutter/icon/64.png" width="16" height="16"> Flutter](https://flutter.dev) and [<img src="https://dart.dev/assets/shared/dart/icon/64.png" width="16" height="16"> Dart](https://dart.dev).
 
 🍬 Together with [@MarcelGarus](https://github.com/MarcelGarus), I'm creating [🍭 **Candy** (name subject to change)](https://github.com/candy-lang/candy): A sweet programming language, mainly inspired by Kotlin, Rust, Elixir, and Dart.  
 🌱 I'm currently working at [<img src="https://smusy.gmbh/wp-content/uploads/2020/12/favicon.png" width="16" height="16"> **smusy.**](https://smusy.de) to revolutionize the application process for students.  
