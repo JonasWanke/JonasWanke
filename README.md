@@ -6,4 +6,4 @@ I'm Jonas Wanke, a software developer with a focus on [<img src="https://storage
 🌱 I'm currently working at [<img src="https://smusy.app/wp-content/uploads/2022/01/faviconV2.jpeg" width="16" height="16"> **smusy.**](https://smusy.de) to revolutionize the application process for students.  
 
 📫 Don't hesistate to get in touch with me! (digitally 😷)  
-You can reach me on [Telegram](https://t.me/JonasWanke) or via [other contact options](mailto:contact+github@wanke.dev). Other contact options are listed on [my website](https://wanke.dev).
+You can reach me on [Telegram](https://t.me/JonasWanke) or via [email](mailto:contact+github@wanke.dev). Other contact options are listed on [my website](https://wanke.dev).
